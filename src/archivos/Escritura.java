@@ -16,7 +16,7 @@ public class Escritura {
         
         Scanner sc = new Scanner(System.in);
         String cadena1;
-        String seguir="";
+        String seguir=" ";
         
         do{
             System.out.println("Write something");
